@@ -83,14 +83,10 @@ The models are evaluated using Mean Squared Error (MSE) and R-squared (R²) metr
 🤝 Contributing
 Contributions are welcome! Please feel free to submit a Pull Request.
 
-## Fork the repository
+Fork the repository
 Create your feature branch (git checkout -b feature/fooBar)
 Commit your changes (git commit -am 'Add some fooBar')
 Push to the branch (git push origin feature/fooBar)
 Create a new Pull Request
 📝 License
 This project is licensed under the MIT License - see the LICENSE file for details.
-
- ## About
-Car Price Prediction using Machine Learning 🧠 This project leverages machine learning techniques to predict car prices based on a comprehensive dataset. With features including engine size, horsepower, and more, our goal is to provide accurate predictions that aid both buyers and sellers in making informed decisions.
-
