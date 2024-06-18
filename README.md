@@ -78,7 +78,6 @@ This project is licensed under the MIT License - see the [LICENSE](LICENSE) file
 
 To install the necessary dependencies, use the following command:
 
-```bash
 pip install -r requirements.txt
 
 🚀 Usage
@@ -89,7 +88,4 @@ Install the dependencies:                 pip install -r requirements.txt
 Run the prediction script:                python predict.py
 
 
-## 📝 License
-
-This project is licensed under the MIT License - see the [LICENSE](LICENSE) file for details.
 
