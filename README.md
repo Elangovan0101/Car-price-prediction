@@ -43,14 +43,14 @@ The dataset contains various features including:
 - **highwaympg**: Highway miles per gallon.
 - **price**: Price of the car (target variable).
 
-## ⚙️ Installation
+⚙️ Installation
 
 To install the necessary dependencies, use the following command:
 
 ```bash
 pip install -r requirements.txt
 
-## 🚀 Usage
+🚀 Usage
 Clone the repository:
 bash
 Copy code
@@ -69,7 +69,7 @@ Copy code
 python predict.py
 
 
-## 🤖 Models Used
+🤖 Models Used
 Linear Regression
 R-squared: 0.7982
 Mean Squared Error: 0.2508
@@ -80,7 +80,7 @@ Mean Squared Error: 0.0517
 The models are evaluated using Mean Squared Error (MSE) and R-squared (R²) metrics.
 
 
-## 🤝 Contributing
+🤝 Contributing
 Contributions are welcome! Please feel free to submit a Pull Request.
 
 ## Fork the repository
