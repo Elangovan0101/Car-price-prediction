@@ -68,25 +68,31 @@ bash
 Copy code
 python predict.py
 
+## 🤖 Models Used
 
-🤖 Models Used
-Linear Regression
-R-squared: 0.7982
-Mean Squared Error: 0.2508
-Random Forest Regressor
-R-squared: 0.9584
-Mean Squared Error: 0.0517
-📈 Evaluation
+- **Linear Regression**
+  - R-squared: 0.7982
+  - Mean Squared Error: 0.2508
+
+- **Random Forest Regressor**
+  - R-squared: 0.9584
+  - Mean Squared Error: 0.0517
+
+## 📈 Evaluation
+
 The models are evaluated using Mean Squared Error (MSE) and R-squared (R²) metrics.
 
+## 🤝 Contributing
 
-🤝 Contributing
 Contributions are welcome! Please feel free to submit a Pull Request.
 
-Fork the repository
-Create your feature branch (git checkout -b feature/fooBar)
-Commit your changes (git commit -am 'Add some fooBar')
-Push to the branch (git push origin feature/fooBar)
-Create a new Pull Request
-📝 License
-This project is licensed under the MIT License - see the LICENSE file for details.
+1. Fork the repository
+2. Create your feature branch (`git checkout -b feature/fooBar`)
+3. Commit your changes (`git commit -am 'Add some fooBar'`)
+4. Push to the branch (`git push origin feature/fooBar`)
+5. Create a new Pull Request
+
+## 📝 License
+
+This project is licensed under the MIT License - see the [LICENSE](LICENSE) file for details.
+
