@@ -1,6 +1,8 @@
 # 🚗 Car Price Prediction using Machine Learning 🧠
 
-Welcome to the Car Price Prediction project! This project uses various machine learning algorithms to predict car prices based on a set of features.
+Welcome to the Car Price Prediction project! This project uses various machine learning algorithms to predict car prices based on a set of features
+![Car Image](https://media.licdn.com/dms/image/D4E12AQHcnePeXhLdBw/article-cover_image-shrink_720_1280/0/1680187651527?e=2147483647&v=beta&t=Jp10J-dQMmypAwk3EvloMVOGHqaAyHBlDUI492cJjnE)
+
 
 ## 📚 Table of Contents
 
