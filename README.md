@@ -43,6 +43,35 @@ The dataset contains various features including:
 - **highwaympg**: Highway miles per gallon.
 - **price**: Price of the car (target variable).
 
+  ## 🤖 Models Used
+
+- **Linear Regression**
+  - R-squared: 0.7982
+  - Mean Squared Error: 0.2508
+
+- **Random Forest Regressor**
+  - R-squared: 0.9584
+  - Mean Squared Error: 0.0517
+
+## 📈 Evaluation
+
+The models are evaluated using Mean Squared Error (MSE) and R-squared (R²) metrics.
+
+## 🤝 Contributing
+
+Contributions are welcome! Please feel free to submit a Pull Request.
+
+1. Fork the repository
+2. Create your feature branch (`git checkout -b feature/fooBar`)
+3. Commit your changes (`git commit -am 'Add some fooBar'`)
+4. Push to the branch (`git push origin feature/fooBar`)
+5. Create a new Pull Request
+
+## 📝 License
+
+This project is licensed under the MIT License - see the [LICENSE](LICENSE) file for details.
+
+
 ⚙️ Installation
 
 To install the necessary dependencies, use the following command:
@@ -68,29 +97,6 @@ bash
 Copy code
 python predict.py
 
-## 🤖 Models Used
-
-- **Linear Regression**
-  - R-squared: 0.7982
-  - Mean Squared Error: 0.2508
-
-- **Random Forest Regressor**
-  - R-squared: 0.9584
-  - Mean Squared Error: 0.0517
-
-## 📈 Evaluation
-
-The models are evaluated using Mean Squared Error (MSE) and R-squared (R²) metrics.
-
-## 🤝 Contributing
-
-Contributions are welcome! Please feel free to submit a Pull Request.
-
-1. Fork the repository
-2. Create your feature branch (`git checkout -b feature/fooBar`)
-3. Commit your changes (`git commit -am 'Add some fooBar'`)
-4. Push to the branch (`git push origin feature/fooBar`)
-5. Create a new Pull Request
 
 ## 📝 License
 
