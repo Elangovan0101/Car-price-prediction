@@ -80,22 +80,11 @@ To install the necessary dependencies, use the following command:
 pip install -r requirements.txt
 
 🚀 Usage
-Clone the repository:
-bash
-Copy code
-git clone https://github.com/Elangovan0101/Car-price-prediction.git
-Navigate to the project directory:
-bash
-Copy code
-cd Car-price-prediction
-Install the dependencies:
-bash
-Copy code
-pip install -r requirements.txt
-Run the prediction script:
-bash
-Copy code
-python predict.py
+
+Clone the repository :                    git clone https://github.com/Elangovan0101/Car-price-prediction.git
+Navigate to the project directory:        cd Car-price-prediction
+Install the dependencies:                 pip install -r requirements.txt
+Run the prediction script:                python predict.py
 
 
 ## 📝 License
